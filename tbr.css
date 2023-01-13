@@ -54,6 +54,16 @@
     border-radius: 24px;
 }
 
+.btn-custom {
+    background-color: #9d00ff;
+    border-color: #9d00ff;
+  }
+
+.btn-custom:hover {
+    background-color: #8900d9;
+    border-color: #8200cc;
+}
+
 .container p {
 
     font-family: Ubuntu-Regular ;
